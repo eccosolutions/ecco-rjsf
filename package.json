@@ -1,7 +1,6 @@
 {
   "name": "@eccosolutions/ecco-rjsf",
   "version": "2.0.0-alpha.1",
-  "private": true,
   "repository": "github:eccosolutions/ecco-rjsf",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
