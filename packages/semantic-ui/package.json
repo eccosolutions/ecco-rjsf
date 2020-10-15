@@ -98,7 +98,8 @@
     "webpack-hot-middleware": "^2.13.2"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com",
+    "access": "restricted"
   },
   "author": "Jacques Nel <jacqueswho@gmail.com>",
   "contributors": [
@@ -116,10 +117,7 @@
     "semantic-ui",
     "rjsf-semantic-ui"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rjsf-team/react-jsonschema-form.git"
-  },
+  "repository": "github:eccosolutions/ecco-rjsf",
   "license": "Apache-2.0",
   "dependencies": {
     "@babel/runtime-corejs2": "^7.9.2",

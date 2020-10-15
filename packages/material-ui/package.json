@@ -45,7 +45,8 @@
     "typescript": "^3.5.3"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com",
+    "access": "restricted"
   },
   "author": "Agustin N. R. Ramirez <agustin.ramirez@cybertec.at>",
   "contributors": [
@@ -63,9 +64,6 @@
     "material-ui",
     "rjsf-material-ui"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rjsf-team/react-jsonschema-form.git"
-  },
+  "repository": "github:eccosolutions/ecco-rjsf",
   "license": "Apache-2.0"
 }

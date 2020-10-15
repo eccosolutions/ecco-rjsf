@@ -43,7 +43,8 @@
     "typescript": "^3.5.3"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com",
+    "access": "restricted"
   },
   "keywords": [
     "Bootstrap 4",
@@ -57,10 +58,7 @@
     "bootstrap-4",
     "rjsf-bootstrap-4"
   ],
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
+  "repository": "github:eccosolutions/ecco-rjsf",
   "license": "MIT",
   "dependencies": {
     "react-icons": "^3.10.0"
