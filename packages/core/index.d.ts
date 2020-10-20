@@ -108,7 +108,7 @@ declare module '@eccosolutions/rjsf-core' {
         onChange: (value: any) => void;
         options: NonNullable<UiSchema['ui:options']>;
         formContext: any;
-        onBlur: (id: string, value: boolean | number | string | null) => void;
+        onBlur: (event: FocusEvent) => void;
         onFocus: (id: string, value: boolean | number | string | null) => void;
         label: string;
         multiple: boolean;
