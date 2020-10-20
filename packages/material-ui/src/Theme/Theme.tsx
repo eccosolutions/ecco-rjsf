@@ -10,8 +10,8 @@ import FieldTemplate from "../FieldTemplate";
 import ObjectFieldTemplate from "../ObjectFieldTemplate";
 import Widgets from "../Widgets";
 
-import { ThemeProps } from "@rjsf/core";
-import { utils } from "@rjsf/core";
+import { ThemeProps } from "@eccosolutions/rjsf-core";
+import { utils } from "@eccosolutions/rjsf-core";
 const { getDefaultRegistry } = utils;
 
 const { fields, widgets } = getDefaultRegistry();

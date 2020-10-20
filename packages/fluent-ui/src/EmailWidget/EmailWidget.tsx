@@ -1,6 +1,6 @@
 import React from "react";
 
-import { WidgetProps } from "@rjsf/core";
+import { WidgetProps } from "@eccosolutions/rjsf-core";
 
 import TextWidget from "../TextWidget";
 

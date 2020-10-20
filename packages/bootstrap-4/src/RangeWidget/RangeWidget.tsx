@@ -2,8 +2,8 @@ import React from "react";
 
 import Form from "react-bootstrap/Form";
 
-import { utils } from "@rjsf/core";
-import { WidgetProps } from "@rjsf/core";
+import { utils } from "@eccosolutions/rjsf-core";
+import { WidgetProps } from "@eccosolutions/rjsf-core";
 
 const { rangeSpec } = utils;
 
