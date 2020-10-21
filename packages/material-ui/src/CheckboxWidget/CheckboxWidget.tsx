@@ -28,12 +28,12 @@ const CheckboxWidget = (props: WidgetProps) => {
   const required = schemaRequiresTrueValue(schema);
 
   const _onChange = ({}, checked: boolean) => onChange(checked);
-  const _onBlur = ({
-    target: { value },
-  }: React.FocusEvent<HTMLButtonElement>) => onBlur(id, value);
-  const _onFocus = ({
-    target: { value },
-  }: React.FocusEvent<HTMLButtonElement>) => onFocus(id, value);
+  const _onBlur = (event: React.FocusEvent<HTMLButtonElement>) => {
+    onBlur(event.target.id, event.target.value);
+  };
+  const _onFocus = (event: React.FocusEvent<HTMLButtonElement>) => {
+    onFocus(event.target.id, event.target.value);
+  };
 
   return (
     <FormControlLabel
