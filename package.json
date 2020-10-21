@@ -1,7 +1,6 @@
 {
   "name": "@eccosolutions/ecco-rjsf",
   "version": "2.0.0-alpha.1",
-  "private": true,
   "repository": "github:eccosolutions/ecco-rjsf",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
@@ -17,13 +16,11 @@
     "cs-check": "lerna run cs-check",
     "cs-format": "lerna run cs-format",
     "build": "lerna run --stream build",
-    "_version": "lerna version",
     "start": "lerna run start --stream --parallel"
   },
   "dependencies": {
-    "cross-env": "^7.0.2",
-    "lerna": "^3.18.3",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "lerna": "^3.18.3"
   },
   "prettier": {
     "jsxBracketSameLine": true,
