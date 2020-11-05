@@ -1,6 +1,6 @@
 {
   "name": "@eccosolutions/rjsf-playground",
-  "version": "2.4.5",
+  "version": "2.4.6",
   "description": "rjsf playground",
   "private": true,
   "scripts": {
@@ -39,12 +39,12 @@
   "dependencies": {
     "@ant-design/icons": "^4.2.1",
     "@babel/runtime-corejs2": "^7.4.5",
-    "@eccosolutions/rjsf-antd": "^2.4.5",
-    "@eccosolutions/rjsf-bootstrap-4": "^2.4.5",
-    "@eccosolutions/rjsf-core": "^2.4.5",
-    "@eccosolutions/rjsf-fluent-ui": "^2.4.5",
-    "@eccosolutions/rjsf-material-ui": "^2.4.5",
-    "@eccosolutions/rjsf-semantic-ui": "^2.4.5",
+    "@eccosolutions/rjsf-antd": "^2.4.6",
+    "@eccosolutions/rjsf-bootstrap-4": "^2.4.6",
+    "@eccosolutions/rjsf-core": "^2.4.6",
+    "@eccosolutions/rjsf-fluent-ui": "^2.4.6",
+    "@eccosolutions/rjsf-material-ui": "^2.4.6",
+    "@eccosolutions/rjsf-semantic-ui": "^2.4.6",
     "@fluentui/react": "^7.121.5",
     "@material-ui/core": "^4.9.4",
     "ajv": "^6.7.0",
