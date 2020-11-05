@@ -26,6 +26,35 @@
 
 [![playground animation](https://i.imgur.com/M8ZCES5.gif)](https://rjsf-team.github.io/react-jsonschema-form/)
 
+## Development
+
+Ensure you are using node ≥ 12 and npm ≥ 6.
+
+To be able to publish to npm you must first log in to npm using the
+command-line tool. Run `npm login` and follow the prompts. You only need to
+do this once. This command stores an auth token in `~/.npmrc`. 
+
+Commands:
+
+ * `npm install` – Install dependencies.
+ * `npm run build` – Build the project (ensure you always run `npm install` first).
+ * `npm test` – Run automated tests (ensure you always run `npm install` and
+   `npm run build` first).
+ * `npm run lint` – Check source code with eslint.
+ * `npm run cs-check` – Check source code is formatted according to Prettier rules.
+ * `npm run cs-format` – Automatically reformat source code using Prettier.
+ * `npm run lerna-publish` – Publish to npm (ensure you always run `npm install`
+    and `npm run build` first).
+
+To run a full build, check, and deploy to npm from scratch:
+```bash
+npm install &&
+npm run build &&
+npm test &&
+npm run lint &&
+npm run cs-check &&
+npm run lerna-publish
+```
 
 ## Supported Themes
 
