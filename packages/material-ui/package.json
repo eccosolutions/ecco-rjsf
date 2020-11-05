@@ -61,5 +61,8 @@
     "rjsf-material-ui"
   ],
   "repository": "github:eccosolutions/ecco-rjsf",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "publishConfig": {
+    "access": "public"
+  }
 }

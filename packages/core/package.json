@@ -123,5 +123,8 @@
     "json-schema"
   ],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/eccosolutions/ecco-rjsf"
+  "homepage": "https://github.com/eccosolutions/ecco-rjsf",
+  "publishConfig": {
+    "access": "public"
+  }
 }

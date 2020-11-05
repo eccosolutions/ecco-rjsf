@@ -92,5 +92,8 @@
   "bugs": {
     "url": "https://github.com/eccosolutions/ecco-rjsf/issues"
   },
-  "homepage": "https://github.com/eccosolutions/ecco-rjsf"
+  "homepage": "https://github.com/eccosolutions/ecco-rjsf",
+  "publishConfig": {
+    "access": "public"
+  }
 }
