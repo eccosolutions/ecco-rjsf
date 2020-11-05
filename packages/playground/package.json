@@ -135,9 +135,5 @@
     "json-schema"
   ],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/rjsf-team/react-jsonschema-form",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
-    "access": "restricted"
-  }
+  "homepage": "https://github.com/rjsf-team/react-jsonschema-form"
 }

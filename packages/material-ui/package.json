@@ -44,10 +44,6 @@
     "tslib": "^2.0.0",
     "typescript": "^3.5.3"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
-    "access": "restricted"
-  },
   "author": "Agustin N. R. Ramirez <agustin.ramirez@cybertec.at>",
   "contributors": [
     "Lorenz Henk <lorenz.henk@cybertec.at>"

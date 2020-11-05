@@ -97,10 +97,6 @@
     "webpack-dev-middleware": "^3.4.0",
     "webpack-hot-middleware": "^2.13.2"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
-    "access": "restricted"
-  },
   "author": "Jacques Nel <jacqueswho@gmail.com>",
   "contributors": [
     "Jacques Nel <jacqueswho@gmail.com>"

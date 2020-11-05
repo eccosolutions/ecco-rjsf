@@ -42,10 +42,6 @@
     "tslib": "^1.10.0",
     "typescript": "^3.5.3"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
-    "access": "restricted"
-  },
   "keywords": [
     "Bootstrap 4",
     "react-jsonschema-form",
