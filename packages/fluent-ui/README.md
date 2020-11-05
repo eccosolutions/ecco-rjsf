@@ -11,7 +11,7 @@
     <img src="https://raw.githubusercontent.com/rjsf-team/react-jsonschema-form/59a8206e148474bea854bbb004f624143fbcbac8/packages/fluent-ui/logo.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">@rjsf/fluent-ui</h3>
+  <h3 align="center">@eccosolutions/rjsf-fluent-ui</h3>
 
   <p align="center">
   Fluent UI theme, fields and widgets for <a href="https://github.com/eccosolutions/ecco-rjsf/"><code>react-jsonschema-form</code></a>.

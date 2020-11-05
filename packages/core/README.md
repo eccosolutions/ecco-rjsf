@@ -10,7 +10,7 @@
     <img src="https://raw.githubusercontent.com/rjsf-team/react-jsonschema-form/59a8206e148474bea854bbb004f624143fbcbac8/packages/core/logo.png" alt="Logo" width="180" height="120">
   </a>
 
-  <h3 align="center">@rjsf/core</h3>
+  <h3 align="center">@eccosolutions/rjsf-core</h3>
 
   <p align="center">
   Core logic and classic Bootstrap 3 theme for <a href="https://github.com/eccosolutions/ecco-rjsf/"><code>react-jsonschema-form</code></a>.
