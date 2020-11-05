@@ -46,7 +46,7 @@ const uiSchema = {
 }
 ```
 
-Please see [customArray.js](https://github.com/rjsf-team/react-jsonschema-form/blob/4542cd254ffdc6dfaf55e8c9f6f17dc900d0d041/packages/playground/src/samples/customArray.js) for another example.
+Please see [customArray.js](https://github.com/eccosolutions/ecco-rjsf/blob/4542cd254ffdc6dfaf55e8c9f6f17dc900d0d041/packages/playground/src/samples/customArray.js) for another example.
 
 The following props are passed to each `ArrayFieldTemplate`:
 
@@ -191,7 +191,7 @@ const uiSchema = {
 };
 ```
 
-Please see [customObject.js](https://github.com/rjsf-team/react-jsonschema-form/blob/4542cd254ffdc6dfaf55e8c9f6f17dc900d0d041/packages/playground/src/samples/customObject.js) for a better example.
+Please see [customObject.js](https://github.com/eccosolutions/ecco-rjsf/blob/4542cd254ffdc6dfaf55e8c9f6f17dc900d0d041/packages/playground/src/samples/customObject.js) for a better example.
 
 The following props are passed to each `ObjectFieldTemplate`:
 

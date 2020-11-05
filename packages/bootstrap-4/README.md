@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rjsf-team/react-jsonschema-form">
+  <a href="https://github.com/eccosolutions/ecco-rjsf">
     <img src="./react-bootstrap-4-logo.png" alt="Logo" width="140" height="120">
   </a>
 
@@ -15,9 +15,9 @@
     <br />
    <a href="https://rjsf-team.github.io/react-jsonschema-form/">View Playground</a>
     ·
-    <a href="https://github.com/rjsf-team/react-jsonschema-form/issues">Report Bug</a>
+    <a href="https://github.com/eccosolutions/ecco-rjsf/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rjsf-team/react-jsonschema-form/issues">Request Feature</a>
+    <a href="https://github.com/eccosolutions/ecco-rjsf/issues">Request Feature</a>
   </p>
 </p>
 
@@ -92,15 +92,15 @@ Read our [contributors' guide](https://react-jsonschema-form.readthedocs.io/en/l
 
 rjsf team: [https://github.com/orgs/rjsf-team/people](https://github.com/orgs/rjsf-team/people)
 
-GitHub repository: [https://github.com/rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
+GitHub repository: [https://github.com/eccosolutions/ecco-rjsf](https://github.com/eccosolutions/ecco-rjsf)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[build-shield]: https://github.com/rjsf-team/react-jsonschema-form/workflows/CI/badge.svg
-[build-url]: https://github.com/rjsf-team/react-jsonschema-form/actions
-[contributors-shield]: https://img.shields.io/github/contributors/rjsf-team/react-jsonschema-form.svg
-[contributors-url]: https://github.com/rjsf-team/react-jsonschema-form/graphs/contributors
+[build-shield]: https://github.com/eccosolutions/ecco-rjsf/workflows/CI/badge.svg
+[build-url]: https://github.com/eccosolutions/ecco-rjsf/actions
+[contributors-shield]: https://img.shields.io/github/contributors/eccosolutions/ecco-rjsf.svg
+[contributors-url]: https://github.com/eccosolutions/ecco-rjsf/graphs/contributors
 [license-shield]: https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat-square
 [license-url]: https://choosealicense.com/licenses/apache-2.0/
 [npm-shield]: https://img.shields.io/npm/v/@rjsf/bootstrap-4/latest.svg?style=flat-square

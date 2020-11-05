@@ -7,23 +7,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rjsf-team/react-jsonschema-form">
+  <a href="https://github.com/eccosolutions/ecco-rjsf">
     <img src="https://raw.githubusercontent.com/rjsf-team/react-jsonschema-form/59a8206e148474bea854bbb004f624143fbcbac8/packages/fluent-ui/logo.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">@rjsf/fluent-ui</h3>
 
   <p align="center">
-  Fluent UI theme, fields and widgets for <a href="https://github.com/rjsf-team/react-jsonschema-form/"><code>react-jsonschema-form</code></a>.
+  Fluent UI theme, fields and widgets for <a href="https://github.com/eccosolutions/ecco-rjsf/"><code>react-jsonschema-form</code></a>.
     <br />
     <a href="https://react-jsonschema-form.readthedocs.io/en/latest/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://rjsf-team.github.io/react-jsonschema-form/">View Playground</a>
     ·
-    <a href="https://github.com/rjsf-team/react-jsonschema-form/issues">Report Bug</a>
+    <a href="https://github.com/eccosolutions/ecco-rjsf/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rjsf-team/react-jsonschema-form/issues">Request Feature</a>
+    <a href="https://github.com/eccosolutions/ecco-rjsf/issues">Request Feature</a>
   </p>
 </p>
 
@@ -48,7 +48,7 @@ Fluent UI theme, fields and widgets for `react-jsonschema-form`.
 
 ### Built With
 
-- [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form/)
+- [react-jsonschema-form](https://github.com/eccosolutions/ecco-rjsf/)
 - [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)
 - [Typescript](https://www.typescriptlang.org/)
 
@@ -100,7 +100,7 @@ const Form = withTheme(FluentUITheme);
 
 ## Roadmap
 
-See the [open issues](https://github.com/rjsf-team/react-jsonschema-form/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/eccosolutions/ecco-rjsf/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -114,15 +114,15 @@ Read our [contributors' guide](https://react-jsonschema-form.readthedocs.io/en/l
 
 rjsf team: [https://github.com/orgs/rjsf-team/people](https://github.com/orgs/rjsf-team/people)
 
-GitHub repository: [https://github.com/rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
+GitHub repository: [https://github.com/eccosolutions/ecco-rjsf](https://github.com/eccosolutions/ecco-rjsf)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[build-shield]: https://github.com/rjsf-team/react-jsonschema-form/workflows/CI/badge.svg
-[build-url]: https://github.com/rjsf-team/react-jsonschema-form/actions
-[contributors-shield]: https://img.shields.io/github/contributors/rjsf-team/react-jsonschema-form.svg
-[contributors-url]: https://github.com/rjsf-team/react-jsonschema-form/graphs/contributors
+[build-shield]: https://github.com/eccosolutions/ecco-rjsf/workflows/CI/badge.svg
+[build-url]: https://github.com/eccosolutions/ecco-rjsf/actions
+[contributors-shield]: https://img.shields.io/github/contributors/eccosolutions/ecco-rjsf.svg
+[contributors-url]: https://github.com/eccosolutions/ecco-rjsf/graphs/contributors
 [license-shield]: https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat-square
 [license-url]: https://choosealicense.com/licenses/apache-2.0/
 [npm-shield]: https://img.shields.io/npm/v/@rjsf/fluent-ui/latest.svg?style=flat-square

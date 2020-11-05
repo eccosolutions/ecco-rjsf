@@ -90,7 +90,7 @@
   "author": "Delyan Ruskov <d.ruskov@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/rjsf-team/react-jsonschema-form/issues"
+    "url": "https://github.com/eccosolutions/ecco-rjsf/issues"
   },
-  "homepage": "https://github.com/rjsf-team/react-jsonschema-form"
+  "homepage": "https://github.com/eccosolutions/ecco-rjsf"
 }
