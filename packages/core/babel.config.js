@@ -3,9 +3,7 @@ const BABEL_ENV = process.env.BABEL_ENV;
 const defaultPlugins = [
   '@babel/plugin-proposal-class-properties',
   '@babel/plugin-proposal-object-rest-spread',
-  '@babel/plugin-proposal-optional-chaining',
-  // IE 11 support
-  '@babel/plugin-transform-object-assign'
+  '@babel/plugin-proposal-optional-chaining'
 ];
 
 module.exports = {
