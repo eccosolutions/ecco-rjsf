@@ -1,8 +1,8 @@
 import React from "react";
 
 import { WidgetProps } from "@eccosolutions/rjsf-core";
+import { TextField } from '@material-ui/core';
 
-import TextField from "@material-ui/core/TextField";
 
 type CustomWidgetProps = WidgetProps & {
   options: any;

@@ -1,10 +1,11 @@
 import React from "react";
 
-import TextField, {
+import {
   StandardTextFieldProps as TextFieldProps,
 } from "@material-ui/core/TextField";
 
 import { WidgetProps, utils } from "@eccosolutions/rjsf-core";
+import {TextField} from "@material-ui/core";
 
 const { getDisplayLabel } = utils;
 

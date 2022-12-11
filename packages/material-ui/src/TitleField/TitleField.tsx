@@ -2,9 +2,10 @@ import React from 'react';
 
 import { FieldProps } from '@eccosolutions/rjsf-core';
 
-import Box from '@material-ui/core/Box';
-import Divider from '@material-ui/core/Divider';
-import Typography from '@material-ui/core/Typography';
+import {
+    Typography,
+    Box, Divider
+} from '@material-ui/core';
 
 const TitleField = ({ title }: FieldProps) => (
   <>

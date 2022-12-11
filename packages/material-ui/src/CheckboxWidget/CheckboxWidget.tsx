@@ -1,7 +1,6 @@
 import React from "react";
 
-import Checkbox from "@material-ui/core/Checkbox";
-import FormControlLabel from "@material-ui/core/FormControlLabel";
+import { Checkbox, FormControlLabel } from '@material-ui/core';
 
 import { WidgetProps } from "@eccosolutions/rjsf-core";
 import { utils } from "@eccosolutions/rjsf-core";

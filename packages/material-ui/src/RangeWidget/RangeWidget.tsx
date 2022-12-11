@@ -1,7 +1,6 @@
 import React from "react";
 
-import Slider from "@material-ui/core/Slider";
-import FormLabel from "@material-ui/core/FormLabel";
+import { FormLabel, Slider } from '@material-ui/core';
 
 import { utils } from "@eccosolutions/rjsf-core";
 import { WidgetProps } from "@eccosolutions/rjsf-core";

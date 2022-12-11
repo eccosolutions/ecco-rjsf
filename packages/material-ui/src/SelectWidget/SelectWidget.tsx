@@ -1,10 +1,7 @@
 import React from "react";
 
-import MenuItem from "@material-ui/core/MenuItem";
-import TextField from "@material-ui/core/TextField";
-
-import { WidgetProps } from "@eccosolutions/rjsf-core";
-import { utils } from "@eccosolutions/rjsf-core";
+import { MenuItem, TextField } from "@material-ui/core"
+import { WidgetProps, utils } from "@eccosolutions/rjsf-core";
 
 const { asNumber, guessType } = utils;
 

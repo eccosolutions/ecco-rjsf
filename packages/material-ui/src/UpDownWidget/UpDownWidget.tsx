@@ -1,8 +1,10 @@
 import React from 'react';
 
-import FormControl from '@material-ui/core/FormControl';
-import Input from '@material-ui/core/Input';
-import InputLabel from '@material-ui/core/InputLabel';
+import {
+  FormControl,
+  InputLabel,
+  Input
+} from '@material-ui/core';
 
 import { WidgetProps } from '@eccosolutions/rjsf-core';
 

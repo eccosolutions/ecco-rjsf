@@ -1,11 +1,8 @@
 import React from "react";
 
-import FormControlLabel from "@material-ui/core/FormControlLabel";
-import FormLabel from "@material-ui/core/FormLabel";
-import Radio from "@material-ui/core/Radio";
-import RadioGroup from "@material-ui/core/RadioGroup";
+import {FormControlLabel, FormLabel, Radio, RadioGroup} from '@material-ui/core';
 
-import { WidgetProps } from "@eccosolutions/rjsf-core";
+import {WidgetProps} from "@eccosolutions/rjsf-core";
 
 const RadioWidget = ({
   id,
@@ -47,17 +44,15 @@ const RadioWidget = ({
           const itemDisabled =
             enumDisabled && (enumDisabled as any).indexOf(option.value) != -1;
 
-          const radio = (
-            <FormControlLabel
-              control={<Radio color="primary" key={i} />}
-              label={`${option.label}`}
-              value={`${option.value}`}
-              key={i}
-              disabled={disabled || itemDisabled || readonly}
-            />
+          return (
+              <FormControlLabel
+                  control={<Radio color="primary" key={i}/>}
+                  label={`${option.label}`}
+                  value={`${option.value}`}
+                  key={i}
+                  disabled={disabled || itemDisabled || readonly}
+              />
           );
-
-          return radio;
         })}
       </RadioGroup>
     </>

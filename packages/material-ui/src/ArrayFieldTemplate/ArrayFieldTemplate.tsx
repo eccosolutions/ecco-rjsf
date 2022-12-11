@@ -1,15 +1,11 @@
 import React from 'react';
 
-import { utils } from '@eccosolutions/rjsf-core';
 
-import Box from '@material-ui/core/Box';
-import Grid from '@material-ui/core/Grid';
-import Paper from '@material-ui/core/Paper';
-
-import { ArrayFieldTemplateProps, IdSchema } from '@eccosolutions/rjsf-core';
+import { ArrayFieldTemplateProps, IdSchema, utils } from '@eccosolutions/rjsf-core';
 
 import AddButton from '../AddButton/AddButton';
 import IconButton from '../IconButton/IconButton';
+import { Grid, Box, Paper } from '@material-ui/core';
 
 const {
   isMultiSelect,

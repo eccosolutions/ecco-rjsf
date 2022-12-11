@@ -2,11 +2,7 @@ import React from "react";
 
 import { FieldTemplateProps } from "@eccosolutions/rjsf-core";
 
-import FormControl from "@material-ui/core/FormControl";
-import FormHelperText from "@material-ui/core/FormHelperText";
-import List from "@material-ui/core/List";
-import ListItem from "@material-ui/core/ListItem";
-import Typography from "@material-ui/core/Typography";
+import { FormControl, Typography, List, ListItem, FormHelperText } from '@material-ui/core';
 
 import WrapIfAdditional from "./WrapIfAdditional";
 
@@ -39,7 +35,7 @@ const FieldTemplate = ({
       schema={schema}>
       <FormControl
         fullWidth={true}
-        error={rawErrors.length ? true : false}
+        error={!!rawErrors.length}
         required={required}>
         {children}
         {displayLabel && rawDescription ? (

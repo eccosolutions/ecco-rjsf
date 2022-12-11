@@ -1,13 +1,14 @@
 import React from 'react';
 
 import { AddButtonProps } from '@eccosolutions/rjsf-core';
+import { Button } from '@material-ui/core';
+import { Add } from "@material-ui/icons";
 
-import Button from '@material-ui/core/Button';
-import AddIcon from '@material-ui/icons/Add';
+
 
 const AddButton: React.FC<AddButtonProps> = props => (
   <Button {...props} color="secondary">
-    <AddIcon /> Add Item
+    <Add /> Add Item
   </Button>
 );
 

@@ -1,12 +1,12 @@
 import React from 'react';
 
-import Grid from '@material-ui/core/Grid';
 import { makeStyles } from '@material-ui/styles';
 
 import { ObjectFieldTemplateProps } from '@eccosolutions/rjsf-core';
 import { utils } from '@eccosolutions/rjsf-core';
 
 import AddButton from '../AddButton/AddButton';
+import { Grid } from '@material-ui/core';
 
 const { canExpand } = utils;
 
