@@ -27,6 +27,7 @@
     },
     "jsx": "react",
     "esModuleInterop": true,
-    "allowJs": true
+    "types": ["jest"],
+    "outDir": "dist"
   }
 }
